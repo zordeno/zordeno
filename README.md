@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Zeyad Mahmoud Lashean, I'm a CS & Engineering student at AUB-Mediterraneo | Competitive Programmer | Building real-world systems<br>Software developer and CS undergraduate based in Paphos, Cyprus.<br>I'm currently working on A Smart Cooking Prediction System — a full-stack React/Node.js/PostgreSQL dashboard that predicts cook targets in real time for a KFC location, reducing food waste and improving efficiency.<br>Codeforces: 1500+ rating, 1700+ problems solved<br>ICPC: 5th place Cyprus 2025, SEERC 2025 participant<br>Multiple ECPC/ACPC qualifications, two EOI bronze medals<br><br>
+My name is Zeyad Mahmoud Lashean, I'm a CS & Engineering student at AUB-Mediterraneo | Competitive Programmer | Building real-world systems<br>Software developer and CS undergraduate based in Paphos, Cyprus.<br>I'm currently working on A Smart Cooking Prediction System — a full-stack React/Node.js/PostgreSQL dashboard that predicts cook targets in real time for a KFC location, reducing food waste and improving efficiency.<br>Codeforces: 1500+ rating, 1700+ problems solved<br>ICPC: 5th place Cyprus 2025, SEERC 2025 participant<br>Multiple ECPC/ACPC qualifications, EOI bronze medals<br><br>
 
 
 ## 🌐 Socials:
